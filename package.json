@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "GDG/Tarek Hariri <dev.npk@gdg.io>",
-  "license": "OSL-3.0"
+  "license": "OSL-3.0",
+  "dependencies": {
+    "imgd": "^1.0.0"
+  }
 }
